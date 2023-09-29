@@ -1,0 +1,75 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: TreeStats
+Our database contains:
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         phylum: 85
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         class: 90
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         order: 188
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         family: 407
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         genus: 1562
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         species: 7254
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
+[ 4  5  6  7  8  9 10]
+1
+         strain: 39661

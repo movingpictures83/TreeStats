@@ -1,0 +1,2 @@
+Prefix plugins/TreeStats/example/
+Plugin TreeStats inputfile tmp_annotation.tsv outputfile none
