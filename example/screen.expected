@@ -30,46 +30,46 @@ Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtyp
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         phylum: 85
+	 phylum: 85
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         class: 90
+	 class: 90
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         order: 188
+	 order: 188
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         family: 407
+	 family: 407
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         genus: 1562
+	 genus: 1562
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         species: 7254
+	 species: 7254
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
 Index(['phylum', 'class', 'order', 'family', 'genus', 'species', 'strain'], dtype='object')
 [ 4  5  6  7  8  9 10]
 1
-         strain: 39661
+	 strain: 39661
